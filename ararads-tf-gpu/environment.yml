@@ -1,0 +1,33 @@
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+    - notebook=4.3*
+    - jupyterhub=0.7 
+    - nomkl 
+    - ipywidgets=5.2* 
+    - pandas=0.19* 
+    - numexpr=2.6* 
+    - matplotlib=1.5* 
+    - scipy=0.17* 
+    - seaborn=0.7* 
+    - scikit-learn=0.18* 
+    - scikit-image=0.11* 
+    - sympy=1.0* 
+    - cython=0.23* 
+    - patsy=0.4* 
+    - statsmodels=0.6* 
+    - cloudpickle=0.1* 
+    - dill=0.2* 
+    - numba=0.23* 
+    - bokeh=0.11* 
+    - sqlalchemy=1.0* 
+    - hdf5=1.8.17 
+    - h5py=2.6* 
+    - vincent=0.4.* 
+    - beautifulsoup4=4.5.* 
+    - xlrd 
+    - pip 
+    - graphviz 
+
