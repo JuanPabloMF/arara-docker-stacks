@@ -6,7 +6,7 @@ dependencies:
     - notebook=4.3*
     - jupyterhub=0.7 
     - nomkl 
-    - ipywidgets=5.2* 
+    #- ipywidgets=5.2* 
     - pandas=0.19* 
     - numexpr=2.6* 
     - matplotlib=1.5* 
